@@ -1,2 +1,3 @@
 # APS2
-APS2 naloge, leta 2019/2020
+Algoritmi in podatkovne strukture 2
+Naloge leta 2019/2020
